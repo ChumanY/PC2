@@ -1,0 +1,11 @@
+Aldair Chuman:
+	Find If
+	Search n
+	Transform
+	Is permutation
+	Find first of
+	For each
+	Random Shuffle
+
+Link:
+https://www.youtube.com/watch?v=ag-mLENyYZk
